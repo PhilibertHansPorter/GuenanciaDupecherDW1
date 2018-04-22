@@ -8,3 +8,8 @@ seul compte. En espérant que vous compreniez notre problème..
 Pour résumer qui a fait quoi : Login : Maxime Dupêcher
 Register : Antoine Guenancia
 Cryptage de mdp : Maxime Dupêcher
+Commentaires : Antoine Guenancia
+
+Merci d'avance pour votre compréhension et bonnes vacances 
+
+RIP SERGENT INSTRUCTEUR 
