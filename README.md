@@ -1,4 +1,4 @@
-bonjour, on est à deux sur ce projet Antoine Guenancia (fragomatik) et Maxime Dupêcher (PHP) , 
+bonjour, on est à deux sur ce projet Antoine Guenancia (fragomatik) et Maxime Dupêcher (PhilibertHansPorter) , 
 on a travaillé la semaine sur le code et on comptait finir de tout push à la fin de la semaine sauf qu'on 
 a eu des gros pb avec le github fork de base.
 Donc on a crée ce repository  sauf que un seul dentre nous peut push dessus on ne sait pas pourquoi pourtant on est 
